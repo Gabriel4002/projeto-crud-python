@@ -1,8 +1,8 @@
 # 🖥️ CRUD Simples com Tkinter e SQLite
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Tkinter](https://img.shields.io/badge/Tkinter-UI%20Framework-#008080)
-![SQLite](https://img.shields.io/badge/SQLite-Database%20Management-#006400)
+![Tkinter](https://img.shields.io/badge/Tkinter-UI%20Framework-008080)
+![SQLite](https://img.shields.io/badge/SQLite-Database%20Management-006400)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 📌 Sobre o Projeto
